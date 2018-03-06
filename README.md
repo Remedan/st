@@ -2,6 +2,19 @@ st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+**This is a fork of [suckless st](https://st.suckless.org/).**
+
+Patches
+-------
+* [scrollback](https://st.suckless.org/patches/scrollback/)
+    * st-scrollback-20170329-149c0d3.diff
+    * st-scrollback-mouse-20170427-5a10aca.diff
+    * st-scrollback-mouse-altscreen-20170427-5a10aca.diff
+* [solarized](https://st.suckless.org/patches/solarized/)
+    * st-no_bold_colors-20170623-b331da5.diff
+    * st-solarized-dark-20170623-b331da5.diff 
+* [vertcenter](https://st.suckless.org/patches/vertcenter/)
+    * st-vertcenter-20171207-0ac685f.diff
 
 Requirements
 ------------
